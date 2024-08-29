@@ -1,0 +1,1 @@
+Link Lasso" does not collect, store, or transmit any personal data from its users. The extension only operates locally on the user's device to allow for the selection and copying of anchor tags (links) from webpages. No information is sent to external servers, and no user data is accessed beyond what is necessary for the extension's core functionality.
